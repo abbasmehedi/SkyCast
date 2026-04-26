@@ -23,7 +23,7 @@ A smart weather application that provides real-time forecasts, alerts, and essen
 
 ## APK Download
 ### Release Version  
-[Download APK](./build/app/outputs/flutter-apk/app-release.apk)
+[Download APK](app-release\app-release.apk)
 
 ## API Setup
 
