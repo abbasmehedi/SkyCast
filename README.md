@@ -34,8 +34,3 @@ Add the key in your project:
     ```dart
     const apiKey = "YOUR_API_KEY";
     ```
-## Author
-
-**Mahmud Abbas Mehedi**  
-CSE Student  
-Interested in app development and problem solving
