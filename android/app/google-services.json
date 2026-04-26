@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834220192091",
+    "project_id": "skycast-45afc",
+    "storage_bucket": "skycast-45afc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834220192091:android:f7c0da99c25b50be8a2a7e",
+        "android_client_info": {
+          "package_name": "com.example.weather_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ErmrNrd8WV4TA5_phzmG7fH_jLmRB28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
