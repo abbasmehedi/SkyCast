@@ -3,7 +3,7 @@
 A smart weather application that provides real-time forecasts, alerts, and essential weather insights to help users plan their day effectively.
 
 ## UI Demo
-<img src="./assets/Ui/Ui_Demo.jpg" style="max-width:300px; height:auto;">
+<img src="./assets/Ui/Ui_Demo.jpg"  width="500">
 ## Features
 
 - Location-based weather updates  
